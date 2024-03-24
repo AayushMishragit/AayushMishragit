@@ -1,4 +1,4 @@
-![logo](https://github.com/AayushMishragit/AayushMishragit/blob/main/README.md)
+![logo](https://github.com/AayushMishragit/AayushMishragit/commits?author=AayushMishragit)
 ### Hi there 👋
 
 <!--
