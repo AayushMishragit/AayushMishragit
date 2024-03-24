@@ -1,3 +1,4 @@
+![logo](https://github.com/AayushMishragit/AayushMishragit/blob/main/README.md)
 ### Hi there 👋
 
 <!--
