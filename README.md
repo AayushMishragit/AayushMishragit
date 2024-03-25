@@ -1,4 +1,4 @@
-![logo](https://github.com/AayushMishragit/AayushMishragit/commits?author=AayushMishragit)
+<img width="200" src="https://github.com/AayushMishragit/AayushMishragit/commits?author=AayushMishragi"></img>
 ### Hi there 👋
 
 <!--
