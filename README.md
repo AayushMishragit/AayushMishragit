@@ -1,4 +1,5 @@
 <img width="200" src="https://github.com/AayushMishragit/AayushMishragit/commits?author=AayushMishragi">
+<img align="center" alt="working" width="400" src="https://images.app.goo.gl/NVYWq4s34z4wrF7q7">
 ### Hi there 👋
 
 <!--
